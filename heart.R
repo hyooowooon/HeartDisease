@@ -292,5 +292,3 @@ confusionMatrix(rf_p, heart_test$output)
 #        'Positive' Class : 0           
 
 
-# 나온 결과값들 가운데 가장 높은 값으로 작성하였습니다.
-
